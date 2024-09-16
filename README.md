@@ -19,6 +19,6 @@ Los datos utilizados en este proyecto fueron proporcionados por **Dental Lab** y
 
 Con este modelo se espera alcanzar los siguientes resultados:
 
-- Reducción de los tiempos de producción promedio.
+- Reducción de los tiempos de atraso. 
 - Mejoras en el nivel de servicio.
 - Disminución de las pérdidas económicas.
