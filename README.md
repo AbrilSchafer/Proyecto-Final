@@ -21,4 +21,4 @@ Con este modelo se espera alcanzar los siguientes resultados:
 
 - Reducción de los tiempos de producción promedio.
 - Mejoras en el nivel de servicio.
-- Disminución de las pérdidas económicas debido a la reducción de retrasos.
+- Disminución de las pérdidas económicas.
